@@ -1,0 +1,17 @@
+p {
+  text-align: center;
+  font-size: 1em;
+  color: red;
+  margin-bottom: .3em;
+  text-decoration: underline;
+}
+#test{
+  text-align: center;
+  font-size: 1em;
+  color: blue;
+  margin-bottom: .3em;
+  text-decoration: underline;
+}
+#head{
+ font-family:arial;
+}
